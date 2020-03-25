@@ -24,7 +24,7 @@ namespace tutorial2
 
                 var university = new University
                 {
-                    Author = "Mustafa Erdem S17249"
+                    Author = "Mustafa Erdem S16500"
                 };
 
                 foreach (var line in File.ReadAllLines(inputPath))
